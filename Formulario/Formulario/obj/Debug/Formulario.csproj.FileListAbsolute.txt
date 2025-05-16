@@ -1,0 +1,10 @@
+C:\Users\Lily\Documents\C#\Formulario\Formulario\obj\Debug\Formulario.csproj.AssemblyReference.cache
+C:\Users\Lily\Documents\C#\Formulario\Formulario\obj\Debug\Formulario.Form1.resources
+C:\Users\Lily\Documents\C#\Formulario\Formulario\obj\Debug\Formulario.Properties.Resources.resources
+C:\Users\Lily\Documents\C#\Formulario\Formulario\obj\Debug\Formulario.csproj.GenerateResource.cache
+C:\Users\Lily\Documents\C#\Formulario\Formulario\obj\Debug\Formulario.csproj.CoreCompileInputs.cache
+C:\Users\Lily\Documents\C#\Formulario\Formulario\bin\Debug\Formulario.exe.config
+C:\Users\Lily\Documents\C#\Formulario\Formulario\bin\Debug\Formulario.exe
+C:\Users\Lily\Documents\C#\Formulario\Formulario\bin\Debug\Formulario.pdb
+C:\Users\Lily\Documents\C#\Formulario\Formulario\obj\Debug\Formulario.exe
+C:\Users\Lily\Documents\C#\Formulario\Formulario\obj\Debug\Formulario.pdb
